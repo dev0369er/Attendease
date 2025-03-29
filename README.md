@@ -1,6 +1,6 @@
-# qresent
+# AttendEase
 
-A new Flutter project.
+Geolocation based QR attendance management system
 
 ## Getting Started
 
